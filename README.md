@@ -7,21 +7,22 @@ telnetを使ってHTTPのやり取りを覗きます。
 
 
 # GET
-
 ```
 GET /get.php HTTP/1.1
+Host: localhost
 ```
 
 # POST
 
 ```
 POST /post.php HTTP/1.1  
-Host: a-http.localhost  
+Host: localhost  
 Content-Type: application/x-www-form-urlencoded  
 Content-Length: 6  
   
 key=10  
 ```
+
 
 
 # 参考URL
