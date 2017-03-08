@@ -30,3 +30,6 @@ key=10
 * [telnetでHTTPリクエストを送ってみよう。](http://masasuzu.hatenablog.jp/entry/20110205/1296886588)
 * [HTTP勉強したまとめ](http://momongahoi.hatenablog.com/entry/2014/01/18/155207)
 
+## Content-Lengthカウンター
+
+[文字数(バイト数)カウント](http://www.luft.co.jp/cgi/str_counter.php)
